@@ -1,6 +1,6 @@
 # README.md for main portfolio
 
-# Data Science Portfolio - [Your Name]
+# Data Science Portfolio - Dumindu Thushan
 
 ## About Me
 [Brief introduction]
