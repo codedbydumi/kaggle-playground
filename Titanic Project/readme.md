@@ -1,8 +1,4 @@
-I'll create individual README files for each of your three projects:
 
-## 1. Titanic Project README
-
-```markdown
 # Titanic Survival Prediction 🚢
 
 ## Project Overview
