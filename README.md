@@ -90,7 +90,6 @@ Currently working on:
 
 - **GitHub:** [codedbydumi](https://github.com/codedbydumi)
 - **Email:** [duminduthushan9@gmail.com]
-- **LinkedIn:** [linkedin.com/duminduthushan]
 - **Kaggle:** [https://www.kaggle.com/dumindu9]
 
 ---
