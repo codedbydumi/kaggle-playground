@@ -89,9 +89,9 @@ Currently working on:
 ## 📫 Connect With Me
 
 - **GitHub:** [codedbydumi](https://github.com/codedbydumi)
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn]
-- **Kaggle:** [Your Kaggle Profile]
+- **Email:** [duminduthushan9@gmail.com]
+- **LinkedIn:** [linkedin.com/duminduthushan]
+- **Kaggle:** [https://www.kaggle.com/dumindu9]
 
 ---
 
@@ -136,6 +136,6 @@ jupyter notebook
 ---
 
 *Feel free to explore the projects and reach out if you have any questions or suggestions!*
-```
+
 
 
